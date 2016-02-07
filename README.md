@@ -1,2 +1,1 @@
-# easyUI-P
-Open source framework based on easyUI11111
+easyUI-P一款基于easyUI的后台开源框
